@@ -1,4 +1,4 @@
-## Hello, I'm Joe Webb 👋
+## Hello, I'm Joe 👋
 - 🔭 Exploring the physical and technological manifestations of mathematics
 - 🎓 Studying Mathematics and Physics at the University of Warwick
 - 📫 Reach me at: [linkedin.com/in/wephy](https://www.linkedin.com/in/wephy/)
