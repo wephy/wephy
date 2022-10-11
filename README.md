@@ -3,7 +3,6 @@
 - 🎓 Studying Mathematics and Physics at the University of Warwick
 - 📫 Reach me at: [linkedin.com/in/wephy](https://www.linkedin.com/in/wephy/)
 
-
 #### Why not check out
 - &nbsp;<a href="https://youtube.com/c/wephy"><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></a> My [youtube channel](https://youtube.com/c/wephy) where I aim to teach physical concepts with the use of programming, mathematics and philosophy
 - 📖 A [mathematics, physics and computer science magazine](https://poincareproject.com/) I co-founded and write for
