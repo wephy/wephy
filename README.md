@@ -13,8 +13,8 @@
 #### Have a look at these repositories
 
 <p align="left">
-  <a href="https://github.com/wephy/quantum-walk"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=quantum-walk&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/wephy/fractal-explorer"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=fractal-explorer&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/wephy/project-euler"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=project-euler&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/wephy/felix-ml"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=felix-ml&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/wephy/quantum-walk"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=quantum-walk&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/wephy/fractal-explorer"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=fractal-explorer&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/wephy/project-euler"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=project-euler&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/wephy/felix-ml"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=wephy&repo=felix-ml&bg_color=1b1f25&title_color=fd5e53&text_color=ADBAC7&icon_color=02a1ac&hide_border=true&show_icons=false"></a>
 </p>
