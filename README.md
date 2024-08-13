@@ -1,11 +1,11 @@
 ## Hello, I'm Joe 👋
-- 🔭 Exploring the physical and technological manifestations of mathematics
-- 🎓 Studying Mathematics and Physics at the University of Warwick
+- Currently at the University of Oxford studying for a Master of Science in Mathematical Modelling and Scientific Computing
+- Visit my website: [wephy.com](https://www.wephy.com)
 - 📫 Reach me at: [linkedin.com/in/wephy](https://www.linkedin.com/in/wephy/)
 
 #### Why not check out
-- &nbsp;<a href="https://youtube.com/c/wephy"><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></a> My [youtube channel](https://youtube.com/c/wephy) where I aim to teach physical concepts with the use of programming, mathematics and philosophy
-- 📖 A [mathematics, physics and computer science magazine](https://poincareproject.com/) I co-founded and write for
+- &nbsp;<a href="https://youtube.com/c/wephy"><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></a> My [youtube channel](https://youtube.com/c/wephy) where I aim to teach mathematics and physics through programming and implementation.
+- 📖 A [mathematics, physics and computer science magazine]([https://poincareproject.com/](https://fliphtml5.com/bookcase/cmkyq/)) I co-founded and write for
 
 
 
