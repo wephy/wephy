@@ -5,7 +5,7 @@
 
 #### Why not check out
 - &nbsp;<a href="https://youtube.com/c/wephy"><img height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"></a> My [youtube channel](https://youtube.com/c/wephy) where I aim to teach mathematics and physics through programming and implementation.
-- 📖 A [mathematics, physics and computer science magazine]([https://poincareproject.com/](https://fliphtml5.com/bookcase/cmkyq/)) I co-founded and write for
+- 📖 A [mathematics, physics and computer science magazine](https://fliphtml5.com/bookcase/cmkyq/) I co-founded and write for
 
 
 
